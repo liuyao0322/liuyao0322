@@ -45,10 +45,7 @@ My current interests include:
 
 ## Selected Work
 
----
-
-## Open-Source Work
-
+- BAG: Faster Matrix Multiplication on GPUs (ICPP Oral) 2026.
 
 ---
 
