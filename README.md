@@ -1,17 +1,6 @@
 # Yao Liu
 
-I am interested in AI Infra, including Inference Speedup and RL Infrastrure.
-
----
-
-## What I Do
-
-I work on efficient infrastructure for large language models, especially systems that need to run under real-world hardware and communication constraints.
-
-My current interests include:
-
-- LLM inference and serving systems
-- GPU kernel optimization
+I am interested in AI Infra, including Inference Speedup and RL Infrastrure. 
 
 ---
 
@@ -30,8 +19,7 @@ My current interests include:
 ## Internship Experience
 
 - AI Infrastructure Intern at Tencent, Meituan, Bytedance.
-- Worked on LLM inference and train optimization
-  
+ 
 ---
 
 ## Research Interests
@@ -55,5 +43,4 @@ My current interests include:
 
 - GitHub: https://github.com/napleon-liu
 - Email: yaoliu548926@gmail.com
-- Homepage: 
-- Google Scholar: 
+- LinkIn: https://www.linkedin.com/in/%E9%81%A5-%E5%88%98-49593637b/
