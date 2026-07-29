@@ -22,7 +22,7 @@ Previously interned at **Tencent, Meituan, and ByteDance**
 
 ## 📄 Selected Work
 
-**BAG: Faster Matrix Multiplication on GPUs**  
+**BAG: Faster Matrix Multiplication on a Single GPU**  
 🏆 ICPP 2026 Oral Presentation
 
 ## 🔗 Links
