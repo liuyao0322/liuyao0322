@@ -1,8 +1,4 @@
-# Yao Liu
 
-I am interested in AI infrastructure, with a focus on inference acceleration, LLM serving systems, CUDA kernel optimization, and RL infrastructure.
-
----
 
 ## Education
 
@@ -30,11 +26,8 @@ I am interested in AI infrastructure, with a focus on inference acceleration, LL
 ## Research Interests
 
 * LLM Serving Systems
-* CUDA Kernel Optimization
-* RL Infrastructure
 * High-Performance Computing
 
----
 
 ## Selected Work
 
@@ -45,6 +38,6 @@ I am interested in AI infrastructure, with a focus on inference acceleration, LL
 
 ## Links
 
-* GitHub: https://github.com/napleon-liu
+* GitHub: https://github.com/liuyao0322
 * Email: [yaoliu548926@gmail.com](mailto:yaoliu548926@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/%E9%81%A5-%E5%88%98-49593637b/
