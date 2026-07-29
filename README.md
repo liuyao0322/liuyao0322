@@ -1,6 +1,6 @@
 # Hi 👋, I'm Liuyao
 
-🎓 Graduate student at the **University of Chinese Academy of Sciences (UCAS)**  
+🎓 I am a student at the **University of Chinese Academy of Sciences (UCAS)**  
 🔧 Working on **AI Infrastructure**, with interests in LLM systems and high-performance computing.
 
 ## 🎓 Education
