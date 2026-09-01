@@ -14,7 +14,7 @@
 ## 💻 Experience
 
 **System Engineering Intern @ Wizard Intelligence Learning Lab (WILL)**  
-📅 Jul 2026 – Present  
+Jul 2026 – Present  
 - Working on robust and high-performance **RL infrastructure**.
 
 Previously interned at **Tencent, Meituan, and ByteDance**  
