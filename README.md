@@ -14,7 +14,7 @@
 ## 💻 Experience
 
 **System Engineering Intern @ Wizard Intelligence Learning Lab (WILL)**  
-Jul 2026 – Present  
+Jul 2026 – Sep 2026  
 - Working on robust and high-performance **RL infrastructure**.
 
 Previously interned at **Tencent, Meituan, and ByteDance**  
@@ -24,6 +24,9 @@ Previously interned at **Tencent, Meituan, and ByteDance**
 
 **BAG: Faster Matrix Multiplication on a Single GPU**  
 🏆 ICPP 2026 Oral Presentation
+
+**Verigrad: Verification-Driven Multi-Agent GPU Kernel Generation for High-Order MLIP Derivatives**  
+🏆 NeurIPS 2026 Poster
 
 ## 🔗 Links
 
